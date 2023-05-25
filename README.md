@@ -49,67 +49,32 @@ Steps to Develop a BSM usng Spring boot.
 1. Spring initializer
 2. Spring tool suit Installation
 3. Create a project file in the Spring tool suit
+4. Creation of H2 database from Spring tool suit
 
-
-Spring initializer
+<B>Spring initializer
 
 A spring initializer is a tool that helps you create a spring project with the desired dependencies and configuration. There are a few ways to use a spring initializer for a maven project:
 
 You can go to https://start.spring.io and let the Initializr generate a Maven project for you with the desired dependencies123. You will get a zip file which you can then unpack in your dev folder. Then open Intellij and select File | New | Project from Existing Sources. (Or Import Project from the welcome screen)4.
+
 You can use IntelliJ Ultimate Edition and create a Spring Boot Maven project directly from Eclipse3. File > New > Project… > Spring Initilzr.
 you can add dependencies in the spring initializer itself spring web, thymelef, spring data JPA, MYSQL driver, spring boot dev tools e.t.c.
 
- NetBeans Installation
+<B>Spring tool suit Installation
 
-NetBeans IDE is a free open - Source, Cross - plte from integrated Decelopment Environment with built-in support the JAVA programming language. it can run any machine which consists of the jva virtual machine. it consists of many features for application development as follows:
-•Drag & Drop Graphical User Interface (GUI) Creation.
+First, need to download the Spring Tool Suite 4 package from the official website https://spring.io/tools. You can choose the package according to your operating system and preferred coding environment (Eclipse, Visual Studio Code, or Theia IDE)1.
+Next, you need to copy the downloaded file to the “/opt” folder and unzip it. You can use the following command to move and unzip the file (assuming you are using Linux and Eclipse):
+sudo mv spring-tool-suite-4-4.14.0.RELEASE-e4.23.0-linux.gtk.x86_64.tar.gz /opt/
+sudo tar -xvzf /opt/spring-tool-suite-4-4.14.0.RELEASE-e4.23.0-linux.gtk.x86_64.tar.gz
+Copy
+After that, you can run the SpringToolSuite4 application file from the extracted folder to launch STS 423. You will be asked to select a workspace directory where your projects will be stored.
+Finally, you can start creating and running Spring Boot projects using STS 4. You can use the Spring Initializr integration to generate a project with the desired dependencies and configuration
 
-•Excellent editing (advanced source code editor)
+<B>Creation of H2 database from Spring tool suit
 
-•Web-service
+you can run your Spring Boot application and access the H2 console in your browser by going to http://localhost:8080/h2-console (or http://localhost:8080/h2-console if you are using a different port). You will see a login screen where you can enter the same datasource URL, username and password that you configured in your application.properties file. Then click Connect to connect to your H2 database12.
 
-•Excellent debugging
-
-•Wizards, code generation and management tools, and many more.
-
-Step 1: You need to have a setup file of the NetBeans JAVA into your setup.
-
-Step 2: If you didn’t have the setup you can download from the following link:
-
-https://netbeans.org/images_www/v6/download/community/8.2
-
-step 3: You can download any type of setup as per your requirements from the above mentionwebpage.
-
-Step 4. Right-click on the setup or you can Double-Click on the setup by using the mouse.
-
-Step 5.Click on the next option
-
-Create a Project File in beans
-Launch the NetBeans IDE
-
-1.In the NetBeans IDE,
-Click
-
-File--New Project--Java--Java Application.
-
-2.After creating the project go to the source package richt click new and select the JFrame
-Example:
-
-Source Package--New--JFrame
-
-3.In the Name and Location page of the wizard, do the following
-
-4.Click Finish
-
-DRAG and DROP GUI'S
-
-![229305229-238bcf84-bbeb-430e-9691-604ef49268fd](https://user-images.githubusercontent.com/127830926/232715317-4656a33a-5445-4280-8d3d-1f9ca23fbc2c.png)
-
-![229305251-3a5d95ec-f4ac-427a-a11c-b9b1e7994660](https://user-images.githubusercontent.com/127830926/232715406-0c7e8c5e-3db5-45d5-8c7a-39182412dd24.png)
-
- File/Folder. In the New File wizard, under Categories, select NetBeans Module Development. Under File Types, select Window Component. Click Next.
-
-
+Finally, you can create tables and perform CRUD operations on your H2 database using SQL scripts or JPA entities. For example, you can create a data.sql file under src/main/resources directory and write some SQL statements to create and populate a table2. Or you can create a JPA entity class with annotations like @Entity, @Id, @Column etc. and let Spring Boot automatically create the table for you based on the entity.
 
 
 ## Running the file <a name = "file"></a>
