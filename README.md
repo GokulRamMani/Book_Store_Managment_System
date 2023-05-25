@@ -1,4 +1,5 @@
 # Book_Store_Managment_System
+
 Book Store Management System is a web application to automate all kinds of operations in the bookshop. The purpose of this software was s to manage the books in the book store. Generally, it includes the Order Processing, Stock Management and Accounts Management. We developed this software to maintains records of sales, purchase and staff records. This project developed using ASP.NET as front end and SQL Server as Back end. Here we are try to develop such type system which is provide the automation on the any type of the bookshop. That means a shop which has the type system which provides the facility to the customers of the shop to purchase the books from the shop without any complexity.
 
 using spring boot.
@@ -6,14 +7,14 @@ using spring boot.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="home page.png" alt="Project logo"></a>
+ <img width=600px height=1200px src="home page.png" alt="Project logo"></a>
 </p>
 <h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3>
 
 
 ---
 
-<p align="center">  Easiest way to pay your EB bill.
+<p align="center">  Easiest way to buy & sell your books.
     <br> 
 </p>
 
