@@ -7,7 +7,7 @@ using spring boot.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="Project logo"></a>
+ <img width=800px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="Project logo"></a>
 </p>
 <h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3>
 
