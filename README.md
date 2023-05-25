@@ -111,7 +111,7 @@ It has three major features.
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="home logo"></a>
 </p>
-<h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3> alt="Project logo"></a>
+<h3 align="center"> HOME PAGE
 =======
 <p align="center">
   <a href="" rel="noopener">
@@ -119,7 +119,7 @@ It has three major features.
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://i.pinimg.com/564x/de/5a/b6/de5ab605e5e9e6a2302bd12ad243abfd.jpg" alt="home logo"></a>
 </p>
-<h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3> alt="new book regirstation page"></a>
+<h3 align="center">NEW BOOK REGIRSTATION PAGE
 =======
 <p align="center">
   <a href="" rel="noopener">
@@ -127,7 +127,7 @@ It has three major features.
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://i.pinimg.com/564x/19/34/92/193492b32466c97bf23dfdee7f8e1ba2.jpg" alt="home logo"></a>
 </p>
-<h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3> alt="h2 db login page"></a>
+<h3 align="center">H2 DB LOGIN PAGE
 =======
 <p align="center">
   <a href="" rel="noopener">
@@ -135,7 +135,7 @@ It has three major features.
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://i.pinimg.com/564x/cd/48/fe/cd48fe6556e7b7c1125cd688f6d5c3ff.jpg" alt="home logo"></a>
 </p>
-<h3 align="center">BOOK STORE MANAGEMENT SYSTEM</h3> alt="h2 db login page"></a>
+<h3 align="center">H2 DB INTERFACE
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 
