@@ -103,12 +103,17 @@ It has three major features.
 4. Better search ability and availability.
 
 ## 🚀 Deployment <a name = "deployment"></a>
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=700px height=400px src="home page.jpg" alt="Project logo"></a>
+</p>
+<h3 align="center">Home page </h3>
 =======
 
 
-<<<<<<< HEAD
-
 ## ⛏ Flow Chart <a name = "flowchart"></a>
+
 =======
 ## Deployment <a name = "deployment"></a>
 >>>>>>> 8b0ac92e1f4c95224da3341a7986336cd1f138e1
