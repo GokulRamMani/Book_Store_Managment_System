@@ -107,7 +107,7 @@ It has three major features.
 
 
  
- <p align="center"> HOME PAGE
+ <p align="center">
  <img width=700px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="home logo"></a>
 
 
