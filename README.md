@@ -102,10 +102,10 @@ It has three major features.
 4. Better search ability and availability.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-
+<h3 align="center">HOME PAGE
  <p align="center">
  <img width=700px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="home logo"></a>
- <h3 align="center">HOME PAGE
+ 
 
 <p align="center">
  <img width=700px height=400px src="https://i.pinimg.com/564x/de/5a/b6/de5ab605e5e9e6a2302bd12ad243abfd.jpg" alt="NEW BOOK REGIRSTATION PAGE"></a>
