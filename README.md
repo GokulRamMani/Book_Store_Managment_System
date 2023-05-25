@@ -40,18 +40,26 @@ Book Shop Management System is the computerize application to automate all kinds
 This software is very helpful for maintain the records of sales and this system keeps all the record of books, receipts, sales, inventory and stocks.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you to develop the Electricity Billing System project in java using (GUI) Graphical User Interface, Java Swing and Java awt.
 
-Steps to Develop a EBS usng Java GUI
+These instructions will get you to develop the Book Store Management web application using spring boot, Thymeleaf, JPA, h2 database.
+Steps to Develop a BSM usng Spring boot.
 
 ### Installing
 
-1. NetBeans Installation
-2. Create a project file in beans
-3. Drag and Drop GUIs
-4. Button Configuration
+1. Spring initializer
+2. Spring tool suit Installation
+3. Create a project file in the Spring tool suit
 
-NetBeans Installation
+
+Spring initializer
+
+A spring initializer is a tool that helps you create a spring project with the desired dependencies and configuration. There are a few ways to use a spring initializer for a maven project:
+
+You can go to https://start.spring.io and let the Initializr generate a Maven project for you with the desired dependencies123. You will get a zip file which you can then unpack in your dev folder. Then open Intellij and select File | New | Project from Existing Sources. (Or Import Project from the welcome screen)4.
+You can use IntelliJ Ultimate Edition and create a Spring Boot Maven project directly from Eclipse3. File > New > Project… > Spring Initilzr.
+you can add dependencies in the spring initializer itself spring web, thymelef, spring data JPA, MYSQL driver, spring boot dev tools e.t.c.
+
+ NetBeans Installation
 
 NetBeans IDE is a free open - Source, Cross - plte from integrated Decelopment Environment with built-in support the JAVA programming language. it can run any machine which consists of the jva virtual machine. it consists of many features for application development as follows:
 •Drag & Drop Graphical User Interface (GUI) Creation.
