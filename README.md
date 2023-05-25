@@ -30,12 +30,14 @@ using spring boot.
 - [Acknowledgments](#acknowledgement)
 
 ## Abstract <a name = "Abstract"></a>
-The aim is to automate its existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy access and manipulation the same. Basically,the project describes how to manage for good performance and better services for the clients.
+
+This application based on the Internet that aims at all levels of management providing information of an organization. This system can be used as an information management system for the bookstore.
+Where people can order the books which they want and even they do not need to bother about the location and do not worry about picking it up from the store. This system will help you to get the book from the store to your home with just a single click. We can also make the payment after delivery of the book which will make us feel safe regarding our money.
 
 ## Introduction
-The electricity billing system has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover, this system is designed for the particular need of the company to carry out operations in a smooth and effective manner. The application is reduced as much as possible to avoid errors while entering the data it also provides error messages while entering invalid data. No formal knowledge is needed for the user to use this system.
 
-Thus by this, it proves it is a user-friendly electricity billing system, as described above, can lead to an error-free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities instead concentrate on record-keeping thus it will help organizations in better utilization of resources. Every organization, whether big or small has challenges to overcome and manage the information of unit energy, electricity, store record, connection, electricity board, and every electricity billing system.
+Book Shop Management System is the computerize application to automate all kinds of activity in book shop. The main aim of this software is to manage the books in the book store.
+This software is very helpful for maintain the records of sales and this system keeps all the record of books, receipts, sales, inventory and stocks.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you to develop the Electricity Billing System project in java using (GUI) Graphical User Interface, Java Swing and Java awt.
