@@ -23,7 +23,7 @@ using spring boot.
 - [Language&Tools](#language&tools)
 - [Getting Started](#getting_started)
 - [Running the file](#file)
-- [Electricty Billing System Usage](#electricty_billingsystem_usage)
+- [Book Store Management System Usage](#book_store_management_system_usage)
 - [Deployment](#deployment)
 - [Flow Chart](#flowchart)
 - [Authors](#authors)
@@ -92,11 +92,6 @@ Finally, you can create tables and perform CRUD operations on your H2 database u
 ## Running the file <a name = "file"></a>
 
 
-### Break down into end to end tests
-Explain what these tests test and why
-
-
-Give an example
 ## Book Store Management System Usage <a name = "book_store_management_system_usage"></a>
 It has three major features.
 
