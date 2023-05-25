@@ -113,8 +113,7 @@ It has three major features.
 <<<<<<< HEAD
 ## 🚀 Deployment <a name = "deployment"></a>
 =======
-3.Print Button:- In print button it print the all detailed which was shown by the cal button like Customer Id, Customer Name Unit, and Amount etc
->>>>>>> 8b0ac92e1f4c95224da3341a7986336cd1f138e1
+
 
 <<<<<<< HEAD
 
@@ -123,12 +122,10 @@ It has three major features.
 ## Deployment <a name = "deployment"></a>
 >>>>>>> 8b0ac92e1f4c95224da3341a7986336cd1f138e1
 
-First Run the file next we get a GUI for calculate the bills and print.
-![Screenshot 2023-03-22 171222](https://user-images.githubusercontent.com/127830926/232712556-aab1f0dc-5d13-487c-89a6-c5781e8046b7.png)
 
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
-![Screenshot 2023-04-01 224431](https://user-images.githubusercontent.com/127830926/232712018-223a419d-f21f-4ba8-94f9-37ab3232f2f7.png)
+
 
 
 ## ✍ Authors <a name = "authors"></a>
@@ -138,4 +135,4 @@ First Run the file next we get a GUI for calculate the bills and print.
 - Inspiration
 -James Gosling
 - References
--Tutus Funny 
+-Imaginary Engineering
