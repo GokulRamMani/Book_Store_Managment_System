@@ -106,7 +106,7 @@ It has three major features.
 ## 🚀 Deployment <a name = "deployment"></a>
 
 
- <img width=700px height=400px src=<p align="center">
+ 
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://i.pinimg.com/750x/30/3e/12/303e121466b00ea10b3b843bc8631d83.jpg" alt="home logo"></a>
 
