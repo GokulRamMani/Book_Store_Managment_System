@@ -20,7 +20,7 @@ using spring boot.
 ## 📝 Table of Contents
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
-- [Language&Tools](#Language & Tools)
+- [Language&Tools](#language&tools)
 - [Getting Started](#getting_started)
 - [Running the file](#file)
 - [Electricty Billing System Usage](#electricty_billingsystem_usage)
@@ -39,7 +39,7 @@ Where people can order the books which they want and even they do not need to bo
 Book Shop Management System is the computerize application to automate all kinds of activity in book shop. The main aim of this software is to manage the books in the book store.
 This software is very helpful for maintain the records of sales and this system keeps all the record of books, receipts, sales, inventory and stocks.
 
-## ⛏ Language & Tools <a name = "language&tools"></a>
+## Language & Tools <a name = "language&tools"></a>
 
 - JAVA -- SPRING BOOT (spring boot dev tools, spring web, thymeleaf, spring data JPA)
 - SQL -- H2 DATABASE
