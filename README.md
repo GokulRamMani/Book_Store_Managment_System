@@ -84,33 +84,24 @@ Finally, you can create tables and perform CRUD operations on your H2 database u
 
 
 ## Running the file <a name = "file"></a>
-After completing the project select the file right click it and choose Run.
 
-After that the application will open we can do bill calculationg parts in the new opened window.
-
-we can able to print the bill as three formats
-
-1.Fax
-
-2.word document
-
-3.PDF file.
-
-Its better we choose the file as in PDF format.
 
 ### Break down into end to end tests
 Explain what these tests test and why
 
 
 Give an example
-## Electricty Billing System Usage <a name = "electricty_billingsystem_usage"></a>
+## Book Store Management System Usage <a name = "book_store_management_system_usage"></a>
 It has three major features.
 
-1.Text field:- In this project there are three main text field. In first one is Customer Id in which we have to fill Customer Id in second one is for Customer Name in this we have to fill customer Name and in the third one is for Unit which is consumed by the customer
+1. Less time to search for the specified books.
 
-2.Cal Button:- Cal Button calculate the gross amount of the unit which consumed by the customer and using lava code it calculate the total bill amount. In this project for different- different unit range there is different rate of charge according to our given data
+2. Saving in stationary.
 
-<<<<<<< HEAD
+3. Proper and clean work.
+
+4. Better search ability and availability.
+
 ## 🚀 Deployment <a name = "deployment"></a>
 =======
 
