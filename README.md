@@ -22,7 +22,6 @@ using spring boot.
 - [Introduction](#Introduction)
 - [Language&Tools](#language&tools)
 - [Getting Started](#getting_started)
-- [Running the file](#file)
 - [Book Store Management System Usage](#book_store_management_system_usage)
 - [Deployment](#deployment)
 - [Flow Chart](#flowchart)
@@ -88,8 +87,6 @@ you can run your Spring Boot application and access the H2 console in your brows
 
 Finally, you can create tables and perform CRUD operations on your H2 database using SQL scripts or JPA entities. For example, you can create a data.sql file under src/main/resources directory and write some SQL statements to create and populate a table2. Or you can create a JPA entity class with annotations like @Entity, @Id, @Column etc. and let Spring Boot automatically create the table for you based on the entity.
 
-
-## Running the file <a name = "file"></a>
 
 
 ## Book Store Management System Usage <a name = "book_store_management_system_usage"></a>
